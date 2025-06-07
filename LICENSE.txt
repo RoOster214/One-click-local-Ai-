@@ -1,0 +1,40 @@
+Feni. OFFlineAI
+=================
+
+Your Private AI Assistant
+
+Prerequisites:
+- Windows 10/11
+- Ollama (https://ollama.com/download)
+- At least 4GB RAM
+- GPU with 4GB VRAM recommended
+
+Setup:
+
+
+About:
+Feni. OfflineAI is a privacy-focused Desktop Application that provides advanced AI capabilities without relying on cloud services. Developed by Justin I Shuckhart (GitHub Ro0ster214), This software attempts to bridge the gap between powerful AI functionality and personal data privacy.
+Feni. UI is built on the Ollama framework, which allows users to run AI models locally on their machines. This ensures that all data processing occurs offline, providing a secure and private environment for AI interactions.
+Purpose:
+Feni. is designed for users who need AI assistance but are concerned about data privacy!, or individuals who need AI capabilities when internet connectivity is limited. By leveraging the Ollama framework, Phoenix offers a fully local experience with no data leaving your computer.
+
+Capabilities:
+
+Conversational AI powered by state-of-the-art language models
+Multi-modal processing (text, images, and documents)---- future feature but built in to code set already
+Context-aware responses with Enterprise-grade security buit in.
+Dynamically selects the optimal model based on content type---baked in feature but currently only Llama3.2B is available
+Exceptionally Secure logging with privacy-preserving encryption
+
+Proper Usage:
+Feni. OfflineAI is intended for legitimate personal and business use cases. Users are responsible for complying with applicable laws and regulations regarding AI usage. The application should not be used to process sensitive personal information without appropriate safeguards.(Ultimatley, it is the user's responsibility to ensure compliance with data protection laws in their jurisdiction.)
+Users are responsible for there own DATA and ensuring that any data processed through Phoenix does not violate privacy laws or regulations. The software is provided "as is" without warranty of any kind, express or implied.
+Development:
+Created in 2025 by Justin I Shuckhart as a solution to bring AI capabilities to environments where privacy and security are paramount. Phoenix3 represents a commitment to responsible AI development that respects user autonomy and data ownership.
+© 2025 Justin Shuckhart - All Rights Reserved
+
+Features:
+- Completely private, offline AI
+- Image and document analysis(future implementation)
+-  encrypted logging
+- No data sent to third parties & (Completely offline)     disconnect & Still use the app
